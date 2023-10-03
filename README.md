@@ -1,6 +1,6 @@
 # P2P Messaging and File-sharing Application
 
-A peer-to-peer messaging and file-sharing application with unicast and gossip messaging, routing for one-to-one communication, data sharing in the manner of BitTorrent, and an implementation of Paxos to reach consensus on file names, built as part of EPFL's Decentralized Systems Engineering. Note that we use the terms "peer", "node", "gossiper", and "participant" interchangeably, but they all refer to the same notion of "peer".
+A peer-to-peer messaging and file-sharing application with unicast and gossip messaging, routing for one-to-one communication, data sharing in the manner of BitTorrent, and an implementation of Paxos to reach consensus on file names, built as part of EPFL's Decentralized Systems Engineering class. Note that we use the terms "peer", "node", "gossiper", and "participant" interchangeably, but they all refer to the same notion of "peer".
 
 ## Architecture
 
